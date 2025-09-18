@@ -23,6 +23,7 @@ mono_crash.*
 *.vbp
 
 # Build results
+Debug/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -433,3 +434,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.cache
+/LogicNetwork/obj
