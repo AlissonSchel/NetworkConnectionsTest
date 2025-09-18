@@ -1,0 +1,14 @@
+E:\Git\TesteLogicoBenner\LogicNetwork\bin\Debug\net8.0\LogicNetwork.exe
+E:\Git\TesteLogicoBenner\LogicNetwork\bin\Debug\net8.0\LogicNetwork.deps.json
+E:\Git\TesteLogicoBenner\LogicNetwork\bin\Debug\net8.0\LogicNetwork.runtimeconfig.json
+E:\Git\TesteLogicoBenner\LogicNetwork\bin\Debug\net8.0\LogicNetwork.dll
+E:\Git\TesteLogicoBenner\LogicNetwork\bin\Debug\net8.0\LogicNetwork.pdb
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.AssemblyInfoInputs.cache
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.AssemblyInfo.cs
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.csproj.CoreCompileInputs.cache
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.dll
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\refint\LogicNetwork.dll
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.pdb
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.genruntimeconfig.cache
+E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\ref\LogicNetwork.dll
