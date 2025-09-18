@@ -437,3 +437,4 @@ FodyWeavers.xsd
 *.cache
 /LogicNetwork/obj
 *.dll
+*.cache
