@@ -12,3 +12,15 @@ E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\refint\LogicNetwork.dll
 E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.pdb
 E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\LogicNetwork.genruntimeconfig.cache
 E:\Git\TesteLogicoBenner\LogicNetwork\obj\Debug\net8.0\ref\LogicNetwork.dll
+E:\Git\NetworkConnectionsTest\LogicNetwork\bin\Debug\net8.0\LogicNetwork.deps.json
+E:\Git\NetworkConnectionsTest\LogicNetwork\bin\Debug\net8.0\LogicNetwork.dll
+E:\Git\NetworkConnectionsTest\LogicNetwork\bin\Debug\net8.0\LogicNetwork.pdb
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\LogicNetwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\LogicNetwork.AssemblyInfoInputs.cache
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\LogicNetwork.AssemblyInfo.cs
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\LogicNetwork.csproj.CoreCompileInputs.cache
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\LogicNetwork.sourcelink.json
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\LogicNetwork.dll
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\refint\LogicNetwork.dll
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\LogicNetwork.pdb
+E:\Git\NetworkConnectionsTest\LogicNetwork\obj\Debug\net8.0\ref\LogicNetwork.dll

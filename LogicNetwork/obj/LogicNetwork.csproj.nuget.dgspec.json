@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git\\TesteLogicoBenner\\LogicNetwork\\LogicNetwork.csproj": {}
+    "E:\\Git\\NetworkConnectionsTest\\LogicNetwork\\LogicNetwork.csproj": {}
   },
   "projects": {
-    "E:\\Git\\TesteLogicoBenner\\LogicNetwork\\LogicNetwork.csproj": {
+    "E:\\Git\\NetworkConnectionsTest\\LogicNetwork\\LogicNetwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git\\TesteLogicoBenner\\LogicNetwork\\LogicNetwork.csproj",
+        "projectUniqueName": "E:\\Git\\NetworkConnectionsTest\\LogicNetwork\\LogicNetwork.csproj",
         "projectName": "LogicNetwork",
-        "projectPath": "E:\\Git\\TesteLogicoBenner\\LogicNetwork\\LogicNetwork.csproj",
+        "projectPath": "E:\\Git\\NetworkConnectionsTest\\LogicNetwork\\LogicNetwork.csproj",
         "packagesPath": "C:\\Users\\ali_s\\.nuget\\packages\\",
-        "outputPath": "E:\\Git\\TesteLogicoBenner\\LogicNetwork\\obj\\",
+        "outputPath": "E:\\Git\\NetworkConnectionsTest\\LogicNetwork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Visual Studio 2022 Community Addons\\NuGetPackages"
