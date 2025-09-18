@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogicNetwork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a180193a080bf0c6503bd59a7dcfbf6a6ec8e485")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+597bca254c6d10a2ae3ce9d238d2370622fe406a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogicNetwork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogicNetwork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

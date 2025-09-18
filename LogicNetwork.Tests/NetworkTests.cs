@@ -16,7 +16,7 @@ namespace LogicNetwork.Tests
         public void Network_Test_Should_Throw_Exception_For_Zero_Elements()
         {
             Action act = () => new Network(0);
-            act.Should().Throw<ArgumentException>().WithMessage("Elements amount must be greater than zero.");
+            act.Should().Throw<ArgumentOutOfRangeException>();
         }
 
         [Fact]

@@ -9,7 +9,7 @@
         {
             if (elementsAmount == 0)
             {
-                throw new ArgumentException("Elements amount must be greater than zero.");
+                throw new ArgumentOutOfRangeException(nameof(elementsAmount), "Elements amount must be greater than zero.");
             }
 
             Elements = [.. Enumerable.Range(1, (int)elementsAmount).Select(e => (uint)e)];
@@ -20,17 +20,6 @@
             ValidateConnection(connection);
             ValidateExistingConnection(connection);
             Connections.Add(connection);
-        }
-
-        public void ConnectMany((uint, uint)[] connections)
-        {
-            foreach (var connection in connections)
-            {
-                ValidateConnection(connection);
-                ValidateExistingConnection(connection);
-            }
-
-            Connections.AddRange(connections);
         }
 
         public bool Query((uint, uint) connection)
@@ -78,14 +67,9 @@
                 throw new ArgumentException("Cannot connect an element to itself.");
             }
 
-            if (connection.Item1 > Elements.Count || connection.Item2 > Elements.Count)
-            {
-                throw new ArgumentException("Connection elements must be within the range of existing elements.");
-            }
-
             if (connection.Item1 == 0 || connection.Item2 == 0)
             {
-                throw new ArgumentException("Element indices must be greater than zero.");
+                throw new ArgumentOutOfRangeException("Element indices must be greater than zero.");
             }
         }
 
